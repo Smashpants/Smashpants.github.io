@@ -8,7 +8,7 @@
 }
 
 .ds4 .dpad {
-    position: relative;
+    position: absolute;
     width: 125px;
     height: 126px;
     top: 100px;
@@ -33,7 +33,7 @@
 .ds4 .face.up {
     left: 44px;
     top: 0;
-    background-position: -37px 0px;
+    background-position: -10px 0px;
 }
 
 .ds4 .face.down {
