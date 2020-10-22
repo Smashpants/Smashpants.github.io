@@ -8,7 +8,7 @@
 }
 
 .ds4 .dpad {
-    position: ;
+    position: relative;
     width: 125px;
     height: 126px;
     top: 100px;
