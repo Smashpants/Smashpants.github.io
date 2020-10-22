@@ -8,7 +8,7 @@
 }
 
 .ds4.disconnected {
-    background: url(ps4-assets/disconnected.svgz);
+    background: url(base.png);
 }
 
 .ds4.disconnected div {
