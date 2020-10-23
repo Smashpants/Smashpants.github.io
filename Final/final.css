@@ -45,13 +45,13 @@
 .ds4 .face.left {
     top: 40px;
     left: 0;
-    background-position: 106px 0;
+    background-position: 105px 0;
 }
 
 .ds4 .face.right {
     top: 40px;
     right: 0px;
-    background-position: 52px 0;
+    background-position: 50px 0;
 }
 
 .ds4 .face.pressed {
