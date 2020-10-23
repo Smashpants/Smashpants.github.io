@@ -31,13 +31,13 @@
 }
 
 .ds4 .face.up {
-    left: 44px;
+    left: 47px;
     top: 0;
     background-position: -44px 0px;
 }
 
 .ds4 .face.down {
-    left: 44px;
+    left: 47px;
     bottom: 0;
     background-position: 0px 0;
 }
