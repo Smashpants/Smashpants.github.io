@@ -43,15 +43,15 @@
 }
 
 .ds4 .face.left {
-    top: 47px;
+    top: 40px;
     left: 0;
     background-position: 106px 0;
 }
 
 .ds4 .face.right {
-    top: 47px;
+    top: 40px;
     right: 0px;
-    background-position: 59px 0;
+    background-position: 55px 0;
 }
 
 .ds4 .face.pressed {
