@@ -21,13 +21,13 @@
 }
 
 .ds4 .face.up, .ds4 .face.down {
-    width: 46px;
-    height: 56px;
+    width: 44px;
+    height: 54px;
 }
 
 .ds4 .face.left, .ds4 .face.right {
-    width: 56px;
-    height: 45px;
+    width: 53px;
+    height: 44px;
 }
 
 .ds4 .face.up {
@@ -51,7 +51,7 @@
 .ds4 .face.right {
     top: 40px;
     right: 0px;
-    background-position: 56px 0;
+    background-position: 55px 0;
 }
 
 .ds4 .face.pressed {
